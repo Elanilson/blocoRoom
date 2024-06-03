@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794846019719",
+    "project_id": "blocoroom",
+    "storage_bucket": "blocoroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794846019719:android:352f4e9c5b838b1524b822",
+        "android_client_info": {
+          "package_name": "br.com.apkdoandroid.blocoroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794846019719-2190g43qfmbsjd17f6ktlhs5pf756dc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.apkdoandroid.blocoroom",
+            "certificate_hash": "17d9e8154d36f31ce14064e4a2d5584777f414dd"
+          }
+        },
+        {
+          "client_id": "794846019719-ub1evc2564q36eku8c4qaua9kv8jnbju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6SYmaY1wlTbPr0tDYsAEdXsMySQ98i9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794846019719-ub1evc2564q36eku8c4qaua9kv8jnbju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

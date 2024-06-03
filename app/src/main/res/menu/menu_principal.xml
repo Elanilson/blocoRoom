@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_pesquisa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Pesquisa"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item_conta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Conta" />
+    <item
+        android:id="@+id/item_importar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Importar" />
+    <item
+        android:id="@+id/item_exportar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Exportar" />
+</menu>
